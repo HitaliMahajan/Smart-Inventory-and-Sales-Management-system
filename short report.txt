@@ -1,0 +1,62 @@
+Problem Statement
+
+Many small businesses and individual sellers still depend primarily on physical or offline methods to promote and sell their products. This can make it difficult for them to reach a wider range of customers, maintain product information, monitor stock levels, and manage sales efficiently.
+
+At the same time, customers may find it difficult to discover products from different small sellers in one place.
+
+The proposed Smart Inventory and Sales Management System aims to provide a web-based platform where sellers can register, add and manage their products, maintain inventory, and monitor sales, while customers can browse products, search by product name or category, view product details, and purchase available products online.
+
+Project objective
+
+1. To provide an online platform through which small businesses and individual sellers can display and sell their products.
+
+2. To allow customers to easily search, browse, and view products based on categories.
+
+3. To provide separate authentication and access for customers and sellers.
+
+4. To allow sellers to add, view, update, and delete their products using CRUD operations.
+
+5. To maintain product stock and automatically update inventory when a product is purchased.
+
+6. To provide low-stock alerts to sellers when the quantity of a product reaches a defined minimum level.
+
+7. To maintain customer orders and sales records using a PostgreSQL database.
+
+8. To provide a simple and user-friendly interface for both customers and sellers.
+
+9. To reduce the dependence of small sellers on purely physical methods of selling and help them reach customers through an online platform.
+
+Functional Requirement
+
+1. User registration
+2. User login/logout
+3. Product search
+4. Product categorization
+5. Product display
+6. Product CRUD
+7. Order placement
+8. Inventory update
+9. Low-stock alert
+10. Sales/order records
+11. Role-based access
+
+Non-Functional Requirement
+
+1. User-friendly interface
+2. Secure authentication
+3. Proper database management
+4. Responsive web interface
+5. Reliable data storage
+6. Reasonable performance
+
+Technology Stack
+
+| Technology     | Purpose                            |
+| -------------- | ---------------------------------- |
+| **HTML5**      | Website structure                  |
+| **CSS3**       | Styling and layout                 |
+| **JavaScript** | Client-side interaction and alerts |
+| **Python**     | Backend programming                |
+| **Flask**      | Python web framework               |
+| **PostgreSQL** | Database                           |
+| **Git/GitHub** | Version control                    |
