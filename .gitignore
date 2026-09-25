@@ -2,7 +2,7 @@
 SISMSenv/
 
 #Environment Variables
-SISMS.env
+.env
 
 # Python Cache Files 
 *.pyc
@@ -21,3 +21,7 @@ app/static/uploads/
 #OS Generated Files 
 .DS_Store
 Thumbs.db
+
+SISMS synopsis.pdf
+short report.txt
+
