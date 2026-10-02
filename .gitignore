@@ -22,6 +22,7 @@ app/static/uploads/
 .DS_Store
 Thumbs.db
 
+# ignore synopsis and short report
 SISMS synopsis.pdf
 short report.txt
 
